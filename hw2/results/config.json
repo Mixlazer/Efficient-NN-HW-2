@@ -1,0 +1,66 @@
+{
+  "dataset": "CIFAR-10",
+  "train_size": 50000,
+  "test_size": 10000,
+  "architecture": "author ResNet18 lowres, float32",
+  "batch_size": 128,
+  "train_steps": 78000,
+  "score_steps": 7800,
+  "score_runs": 10,
+  "eval_runs": 4,
+  "retained_fraction": 0.5,
+  "learning_rate": 0.1,
+  "momentum": 0.9,
+  "nesterov": true,
+  "weight_decay": 0.0005,
+  "decay_steps": [
+    23400,
+    46800,
+    62400
+  ],
+  "decay_factor": 0.2,
+  "author_commit": "aee462eab93aa0fb14c1ddfeba45d645b85a5fbb",
+  "model_sha256": "92123c6a912d3ee4a2ef5b95b37fac5cea0bc25ff240c19c6b7af71534523201",
+  "normalization_mean": [
+    0.4914,
+    0.4822,
+    0.4465
+  ],
+  "normalization_std": [
+    0.247,
+    0.2435,
+    0.2616
+  ],
+  "augmentation": "reflect padding 4, shared batch crop, independent horizontal flips",
+  "deterministic_gpu_operations": true,
+  "score_run_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "evaluation_run_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "evaluation_methods": [
+    "random",
+    "el2n"
+  ],
+  "differences": [
+    "Modern JAX/Flax instead of historical package versions",
+    "Canonical CIFAR Python order, then stable class sort, instead of TFDS order",
+    "NumPy shuffle and JAX augmentation randomness instead of JAX shuffle and TensorFlow randomness",
+    "Test set evaluated only after training; no choice of best test checkpoint",
+    "Full-data baseline omitted at user request; two subsets of 25000 images compared"
+  ],
+  "source_sha256": "ee9c434bf67091501f7b1ee0cdf0758d479b194e0d16a32327447f1a20309ac8"
+}

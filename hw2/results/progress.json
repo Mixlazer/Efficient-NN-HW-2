@@ -1,0 +1,8 @@
+{
+  "run": "score_07",
+  "step": 7800,
+  "equivalent_epoch": 20.0,
+  "train_loss": 0.38878498119421495,
+  "seconds": 1110.6725545849995,
+  "learning_rate": 0.10000000149011612
+}

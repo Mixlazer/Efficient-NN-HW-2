@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.msgpack
+*.tmp
+*.receiving
+data/
+Efficient_NN_HW2_CIFAR10_T4_half25k/
+hw2_restore.zip
+hw2_checkpoint_*.zip
+hw2_backup_*.zip

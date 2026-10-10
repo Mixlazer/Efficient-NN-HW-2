@@ -1,0 +1,12 @@
+{
+  "paper": "https://arxiv.org/abs/2107.07075v2",
+  "author_code": "https://github.com/mansheej/data_diet",
+  "author_commit": "aee462eab93aa0fb14c1ddfeba45d645b85a5fbb",
+  "source_sha256": "ee9c434bf67091501f7b1ee0cdf0758d479b194e0d16a32327447f1a20309ac8",
+  "cifar_archive_md5": "c58f30108f718f92721af3b95e74349a",
+  "sample_seed": 20261011,
+  "snapshot": "2026-10-10T20:34:35Z",
+  "training_location": "Google Colab, Tesla T4",
+  "storage": "Colab session storage; verified backups on the author’s local E: drive",
+  "scope": "10 preliminary networks; random and EL2N subsets of 25000; four final repetitions each; no full-data baseline"
+}

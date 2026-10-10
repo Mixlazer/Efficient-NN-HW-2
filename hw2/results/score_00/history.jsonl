@@ -1,0 +1,10 @@
+{"step": 4290, "equivalent_epoch": 11.0, "train_loss": 0.4578729300926893, "seconds": 633.0392006779999, "learning_rate": 0.10000000149011612}
+{"step": 4680, "equivalent_epoch": 12.0, "train_loss": 0.43992962180039824, "seconds": 689.3861009809999, "learning_rate": 0.10000000149011612}
+{"step": 5070, "equivalent_epoch": 13.0, "train_loss": 0.42403878279221363, "seconds": 750.2870758569999, "learning_rate": 0.10000000149011612}
+{"step": 5460, "equivalent_epoch": 14.0, "train_loss": 0.4197754755998269, "seconds": 810.206528839, "learning_rate": 0.10000000149011612}
+{"step": 5850, "equivalent_epoch": 15.0, "train_loss": 0.40766598467643445, "seconds": 870.0973573729999, "learning_rate": 0.10000000149011612}
+{"step": 6240, "equivalent_epoch": 16.0, "train_loss": 0.39602432201306026, "seconds": 930.8323417979999, "learning_rate": 0.10000000149011612}
+{"step": 6630, "equivalent_epoch": 17.0, "train_loss": 0.3890350671150746, "seconds": 991.1346747429999, "learning_rate": 0.10000000149011612}
+{"step": 7020, "equivalent_epoch": 18.0, "train_loss": 0.3874192060950475, "seconds": 1051.251051069, "learning_rate": 0.10000000149011612}
+{"step": 7410, "equivalent_epoch": 19.0, "train_loss": 0.3747906446456909, "seconds": 1111.2030954309998, "learning_rate": 0.10000000149011612}
+{"step": 7800, "equivalent_epoch": 20.0, "train_loss": 0.36969568347319576, "seconds": 1171.1165751949998, "learning_rate": 0.10000000149011612}

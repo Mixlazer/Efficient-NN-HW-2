@@ -1,0 +1,4 @@
+{"time": 1791619324.0432458, "python": "3.13.15", "platform": "Linux-6.6.122+-x86_64-with-glibc2.39", "jax": "0.11.1", "flax": "0.12.10", "numpy": "2.1.3", "devices": ["cuda:0 Tesla T4"]}
+{"time": 1791657592.5934577, "python": "3.13.15", "platform": "Linux-6.6.122+-x86_64-with-glibc2.39", "jax": "0.11.1", "flax": "0.12.10", "numpy": "2.1.3", "devices": ["cuda:0 Tesla T4"]}
+{"time": 1791659445.7609901, "python": "3.13.15", "platform": "Linux-6.6.122+-x86_64-with-glibc2.39", "jax": "0.11.1", "flax": "0.12.10", "numpy": "2.1.3", "devices": ["cuda:0 Tesla T4"]}
+{"time": 1791659549.0264432, "python": "3.13.15", "platform": "Linux-6.6.122+-x86_64-with-glibc2.39", "jax": "0.11.1", "flax": "0.12.10", "numpy": "2.1.3", "devices": ["cuda:0 Tesla T4"]}

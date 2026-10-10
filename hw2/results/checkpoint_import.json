@@ -1,0 +1,9 @@
+{
+  "source": "/content/drive/MyDrive/Efficient_NN_HW2_CIFAR10_T4",
+  "source_sha256": "edb6e126fbd793a7e487e907d317a3ab16d7d26e2d4da29d258f5c8ddbfe424d",
+  "checkpoint_sha256": "49a58dd30fc5db10de7881c1caf6b7d3a00608c6b9e844da45f0a8bb94a82485",
+  "old_config_hash": "627a51976a0907d6767480115d9e415c64c8a3e15fff5e7055db6a8b03de7d74",
+  "new_config_hash": "ab6635dea07d36c52491412eba276044442337d72256edbde6affb779b21c5b9",
+  "step": 3900,
+  "reason": "Предварительное обучение не изменено; исключён только итоговый вариант на всей выборке."
+}

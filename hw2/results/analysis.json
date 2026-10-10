@@ -1,0 +1,23 @@
+{
+  "complete": false,
+  "preliminary_completed": 8,
+  "final_completed": 0,
+  "score_mean": 0.2729884088039398,
+  "score_min": 3.1921235859044828e-06,
+  "score_max": 1.3846018314361572,
+  "rank_correlation_min": 0.4328787070869214,
+  "rank_correlation_max": 0.7108587516243892,
+  "final_training_loss": [
+    0.36969568347319576,
+    0.37918126781781514,
+    0.3828049572232442,
+    0.3766099859124575,
+    0.39225393816446646,
+    0.36776727579343016,
+    0.38699973779611097,
+    0.38878498119421495
+  ],
+  "statistics": [],
+  "verified_runs": [],
+  "configuration_sha256": "ab6635dea07d36c52491412eba276044442337d72256edbde6affb779b21c5b9"
+}
