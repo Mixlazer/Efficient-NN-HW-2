@@ -12,7 +12,7 @@ Open the notebook and run all cells with `RUN_TRAINING = False`. The [results_sn
 
 Local analysis requires Python, NumPy, Matplotlib, IPython, and a Jupyter environment. Training in this study runs only in Colab on Tesla T4. The notebook’s saved outputs come from sequential execution of the analysis; the training section is not presented as a new locally completed experiment.
 
-The current published snapshot contains eight completed preliminary networks. Final accuracies are not yet available. Missing results are not replaced with zeros, artificial curves, or results from the earlier small experiment.
+The current published snapshot contains all ten completed preliminary networks and 51,480 of 78,000 updates of the first random-half final network. The ten-network mean scores and selected random indices passed independent checks. Final accuracies are not yet available. Missing results are not replaced with zeros, artificial curves, or results from the earlier small experiment.
 
 ### Train in Google Colab
 
@@ -77,7 +77,7 @@ Original Figure 1 from the [paper](https://arxiv.org/abs/2107.07075v2) is used w
 
 Для локального анализа нужны Python, NumPy, Matplotlib, IPython и среда Jupyter. Обучение в этой работе выполняется только в Colab на Tesla T4. Сохранённые выходные данные блокнота получены при последовательном выполнении анализа; раздел обучения не выдаётся за заново выполненный локально опыт.
 
-В текущем опубликованном снимке завершены восемь предварительных сетей. Итоговых точностей пока нет. Отсутствующие результаты не заменяются нулями, искусственными кривыми или результатами прежнего небольшого опыта.
+В текущем опубликованном снимке завершены все десять предварительных сетей; первая итоговая сеть на случайной половине выполнила 51 480 из 78 000 шагов. Средние оценки десяти сетей и индексы случайного отбора прошли независимую проверку. Итоговых точностей пока нет. Отсутствующие результаты не заменяются нулями, искусственными кривыми или результатами прежнего небольшого опыта.
 
 ### Обучение в Google Colab
 

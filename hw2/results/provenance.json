@@ -5,7 +5,9 @@
   "source_sha256": "ee9c434bf67091501f7b1ee0cdf0758d479b194e0d16a32327447f1a20309ac8",
   "cifar_archive_md5": "c58f30108f718f92721af3b95e74349a",
   "sample_seed": 20261011,
-  "snapshot": "2026-10-10T20:34:35Z",
+  "snapshot": "2026-10-11T20:16:05Z",
+  "source_archive": "hw2_checkpoint_20261011T201605Z.zip",
+  "source_archive_sha256": "3ac7e86a17eec44f05f19c3eac07b20b5300001ec0c17de1ba217cfafe822871",
   "training_location": "Google Colab, Tesla T4",
   "storage": "Colab session storage; verified backups on the author’s local E: drive",
   "scope": "10 preliminary networks; random and EL2N subsets of 25000; four final repetitions each; no full-data baseline"

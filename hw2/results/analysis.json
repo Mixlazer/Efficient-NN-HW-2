@@ -1,10 +1,18 @@
 {
   "complete": false,
-  "preliminary_completed": 8,
+  "preliminary_completed": 10,
   "final_completed": 0,
-  "score_mean": 0.2729884088039398,
-  "score_min": 3.1921235859044828e-06,
-  "score_max": 1.3846018314361572,
+  "current_training": {
+    "run": "evaluate_10_random",
+    "step": 51480,
+    "equivalent_epoch": 132.0,
+    "train_loss": 0.0023095601287562973,
+    "seconds": 7258.970265678001,
+    "learning_rate": 0.004000000189989805
+  },
+  "score_mean": 0.2734890878200531,
+  "score_min": 2.778946509351954e-06,
+  "score_max": 1.3705084323883057,
   "rank_correlation_min": 0.4328787070869214,
   "rank_correlation_max": 0.7108587516243892,
   "final_training_loss": [
@@ -15,7 +23,9 @@
     0.39225393816446646,
     0.36776727579343016,
     0.38699973779611097,
-    0.38878498119421495
+    0.38878498119421495,
+    0.3822182930050752,
+    0.373819252046255
   ],
   "statistics": [],
   "verified_runs": [],

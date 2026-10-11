@@ -1,8 +1,8 @@
 {
-  "run": "score_07",
-  "step": 7800,
-  "equivalent_epoch": 20.0,
-  "train_loss": 0.38878498119421495,
-  "seconds": 1110.6725545849995,
-  "learning_rate": 0.10000000149011612
+  "run": "evaluate_10_random",
+  "step": 51480,
+  "equivalent_epoch": 132.0,
+  "train_loss": 0.0023095601287562973,
+  "seconds": 7258.970265678001,
+  "learning_rate": 0.004000000189989805
 }
